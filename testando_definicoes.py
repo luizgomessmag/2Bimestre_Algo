@@ -37,15 +37,15 @@
 
 #Tupla
 
-# teste = (1,2,3,5)
-# print(teste)
-# teste.append(4)
-# print(teste)
+teste = (1,2,3,5)
+print(teste)
+teste.append(4)
+print(teste)
 
 #conjunto
 
-teste = {1,2,3,1,5}
-print(teste)
-# teste.remove(1)
-teste.add(4)
-print(teste)
+# teste = {1,2,3,1,5}
+# print(teste)
+# # teste.remove(1)
+# teste.add(4)
+# print(teste)
