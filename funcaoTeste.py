@@ -46,12 +46,12 @@
 
 #-----------------------------------------------------------------------------------------
 #tabuada personalizada
-def tabuadaPersonalisada(base,inicio,fim):
+def tabuadaPersonalizada(base,inicio,fim):
     print(f"tabuada do:{base} de {inicio} a {fim}:")
     for j in range(inicio,fim+1):
         print(f"{base} x {j} = {base*j}")
     print()#espaço extra para separar as tabuadas
 
-tabuadaPersonalisada(7,1,10)#tabuada do 7 de 1 a 10
-tabuadaPersonalisada(5,5,15)#tabuada do 5 de 5 a 15
+tabuadaPersonalizada(7,1,10)#tabuada do 7 de 1 a 10
+tabuadaPersonalizada(5,5,15)#tabuada do 5 de 5 a 15
 
